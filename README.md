@@ -12,7 +12,7 @@ Amaç, OOP (Object Oriented Programming) kavramlarını öğrenmek ve uygulamakt
 - 🔊 Ses çıkarma (Polymorphism)
 - 🍽️ Hayvan besleme sistemi
 - ❌ Hayvan silme
-- 🧹 Listeyi temizleme
+- 🧹 Listeyi komple silme
 - 🔍 Hayvan arama (case-insensitive)
 - 🦖 Dinozorları listeleme
 - 🕊️ Uçabilen hayvanları görüntüleme (Interface kullanımı)
